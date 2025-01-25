@@ -1,0 +1,4 @@
+.item:hover {
+  color: orange;
+  transition: 2s;
+}
